@@ -1,0 +1,14 @@
+{
+  "name": "scrap_yt_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "7.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
